@@ -1,5 +1,7 @@
 # Apex Programming Language
 
+# WARNING: YOU NEED TO INSTALL GIT AND GIT BASH TO USE IT
+
 A complex, strongly-typed programming language with full Object-Oriented Programming (OOP) support and a Python-based interpreter.
 
 ## Features
